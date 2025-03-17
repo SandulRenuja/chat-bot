@@ -3,158 +3,122 @@
     {
       "tag": "greeting",
       "patterns": [
-        "Hii",
-        "Helloo",
-        "Hye",
-        "Godd day",
-        "Is this the HR deprtment?",
-        "Can I speek to someon about internsips?"
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
       ],
       "responses": [
-        "Hello! How can I asist you today?",
-        "Hii there! Are you looking for an internsip?",
-        "Welcom! How can I help with your internsip ?",
-        "Hey! Would you like to know about avalable opportunites?"
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
       ]
     },
     {
-      "tag": "internship_availability",
+      "tag": "internship_application",
       "patterns": [
-        "Are ther any internsip opprtunities?",
-        "Do you have any open intern possitions?",
-        "Can I aply for an internsip?",
-        "Is your company hring interns?",
-        "What internsip rols are avilable?"
+        "How can I apply for an internship?",
+        "What is the application process for interns?",
+        "Where do I submit my internship application?"
       ],
       "responses": [
-        "Yes, we curently have internsip oportunities in varios deprtments. What feild are you intrested in?",
-        "Absolutly! We are acepting aplications. Would you like more detals about the avilable rols?",
-        "Yes, we offer internsips in mutiple feilds. Which deprtment would you like to join?",
-        "We are open to interns! Are you looking for a tehnical or non-tehnical role?"
-
+        "You can apply for an internship on our careers page.",
+        "Submit your application through our online portal.",
+        "Visit our website and check the internship openings."
       ]
     },
     {
       "tag": "internship_requirements",
       "patterns": [
-        "What are the requrmnts for an internsip?",
-        "Who can aply for an internsip?",
-        "Do I need exprience to aply?",
-        "Is prior work experince requred?",
-        "Can undrgraduates aply for internsips?"
+        "What are the requirements for the internship?",
+        "Do I need experience to apply for an internship?",
+        "What qualifications do I need for an internship?"
       ],
       "responses": [
-        "Our internsips are open to studnts and recent gradutes. No prior experince is requred, but entusiasm and willingness to lern are a must!",
-        "You don’t need exprience! We value skils, pasion, and a lerning mindset. Are you curently studing or a recent gradute?",
-        "Anyone with a basic undrstanding of the feild and an eagerness to lern can aply. Would you like guidnce on prepraring your aplication?",
-        "Our internsips are designed for both studnts and fresh gradutes. What’s your area of intrest?"
+        "We welcome students and recent graduates with a passion for learning.",
+        "No prior experience is required, but relevant skills are a plus.",
+        "Basic knowledge in the field and a willingness to learn are required."
       ]
     },
     {
       "tag": "internship_duration",
       "patterns": [
-        "How long is the internsip?",
-        "What is the durtion of the internsip?",
-        "Is the internsip full-time or part-time?",
-        "Can I do a short-term internsip?",
-        "Do you offer flexible internsip shedules?"
+        "How long does the internship last?",
+        "What is the duration of the internship?",
+        "Is the internship full-time or part-time?"
       ],
       "responses": [
-        "Our internsips typicaly last betwen 3 to 6 months. Are you looking for a short-term or long-term role?",
-        "We ofer both full-time and part-time internsips, depending on the role. What suits you best?",
-        "You can chose betwen full-time and part-time options. Would you like more detals on the shedules?",
-        "We provide flexble options. Do you have a prefrred durtion?"
+        "Our internship program lasts between 6 to 12 months.",
+        "Internship duration varies, typically from 3 to 6 months.",
+        "We offer both part-time and full-time internship opportunities."
       ]
     },
     {
-      "tag": "application_process",
+      "tag": "internship_stipend",
       "patterns": [
-        "How do I aply for an internsip?",
-        "What is the aplication process?",
-        "Where can I submit my aplication?",
-        "What documents are requred to aply?",
-        "Do I need a cover leter for my internsip aplication?"
+        "Is the internship paid?",
+        "Do interns receive a stipend?",
+        "Will I be paid during my internship?"
       ],
       "responses": [
-        "You can aply by submitting your resume and cover leter through our carres page. Would you like the link?",
-        "Our aplication process is simple: Submit your resume, and our HR team will get in touch with shortlsted candidates.",
-        "Plase send your resume and a breif intrduction about yourself. Would you like tips on writing a strong aplication?",
-        "Just visit our website, find the internsip section, and aply! Do you need help with your resume?"
+        "Yes, we provide a stipend based on the role and duration.",
+        "Some internships are paid, while others offer valuable experience.",
+        "Stipend details will be discussed during the interview."
       ]
     },
     {
-      "tag": "interview_process",
+      "tag": "internship_roles",
       "patterns": [
-        "What is the interview process like?",
-        "Do I need to prepare for an interview?",
-        "How many interview rounds are there?",
-        "What kind of questions will be asked in the interview?",
-        "Is there a technical test for interns?",
-        "How do I prepare for the interview?",
-        "Will the interview be online or in-person?",
-        "Do you take virtual interviews?",
-        "What should I expect in the interview?",
-        "Is it a group interview or one-on-one?",
-        "Do interns have a written test?",
-        "Is there a coding assessment?",
-        "Will I need to take an assessment test?",
-        "Are there HR questions in the interview?",
-        "Do you ask behavioral questions?",
-        "Is the interview hard?",
-        "Can you give me sample interview questions?",
-        "How long does the interview take?",
-        "Will I be interviewed by a panel?",
-        "Are mock interviews available?",
-        "Can I reschedule my interview?"
+        "What roles are available for interns?",
+        "What kind of work do interns do?",
+        "What positions are open for interns?"
       ],
       "responses": [
-        "The interview process usually includes an initial screening and a technical or HR round, depending on the role.",
-        "We conduct one or two rounds of interviews. Are you interested in knowing about the questions typically asked?",
-        "Interviews may involve technical or behavioral questions. Would you like some preparation tips?",
-        "Depending on the role, you may be asked to complete a small assignment or test. Want to know what to expect?",
-        "Most interviews start with an HR round, followed by a role-specific interview. Do you want to know about technical questions?",
-        "Yes, we take virtual interviews for remote interns. Are you looking for an online interview?",
-        "The interview usually takes 30-60 minutes depending on the position. Are you preparing for one?",
-        "For technical interns, there may be a coding test. Would you like to see some sample questions?",
-        "We ask a mix of situational, behavioral, and technical questions. Need help with preparation?",
-        "If you need to reschedule, please let us know in advance. Want to change your interview date?",
-        "You can prepare by reviewing common HR and technical questions. Would you like some resources?"
-      ]
-    },
-    
-    
-    
-    {
-      "tag": "stipend",
-      "patterns": [
-        "Is the internsip paid?",
-        "Do you ofer a stipend?",
-        "Will I get paid for the internsip?",
-        "Are all internsips at your company paid?",
-        "What is the salry for interns?"
-      ],
-      "responses": [
-        "Some of our internsips come with a stipend, while othrs focus on lerning and experince. Which role are you intrested in?",
-        "We ofer stipnds for certain rols. Would you like more detals on compensation for your feild?",
-        "Compnsation depends on the internsip type and durtion. Let’s discus the specifics!",
-        "We have both paid and unpid internsips. Are you looking for a stipend-based positon?"
+        "We offer internships in software development, marketing, and data analysis.",
+        "Interns work on real projects and collaborate with experienced professionals.",
+        "Available roles depend on our current company needs."
       ]
     },
     {
-      "tag": "goodbye",
+      "tag": "internship_benefits",
       "patterns": [
-        "Thnks",
-        "Thank yuo",
-        "That was helpfull",
-        "Byee",
-        "See yu later",
-        "I apreciate the help"
+        "What are the benefits of an internship?",
+        "What will I gain from this internship?",
+        "How does this internship help my career?"
       ],
       "responses": [
-        "You're welcom! Let me know if you need more info. Good luck!",
-        "Hapy to help! Wishing you succes in your internsip journey!",
-        "Goodby! Feel free to reach out if you have more questins!",
-        "It was great asistng you! Hope to see you as an intern soon!"
+        "You will gain hands-on experience and networking opportunities.",
+        "Interns develop industry-relevant skills and get mentorship from experts.",
+        "Our internship program enhances your resume and career prospects."
+      ]
+    },
+    {
+      "tag": "internship_interview",
+      "patterns": [
+        "What questions are asked in an internship interview?",
+        "How can I prepare for my internship interview?",
+        "What should I expect in the interview?"
+      ],
+      "responses": [
+        "Be prepared to discuss your skills, experiences, and career goals.",
+        "Common questions include 'Tell us about yourself' and 'Why do you want this internship?'",
+        "Technical and behavioral questions may be asked based on the role."
+      ]
+    },
+    {
+      "tag": "internship_hiring_decision",
+      "patterns": [
+        "How long does it take to get hired as an intern?",
+        "When will I know if I got the internship?",
+        "What is the selection process for interns?"
+      ],
+      "responses": [
+        "The hiring process usually takes 1-2 weeks.",
+        "We will notify you within a few days after the interview.",
+        "Selections are based on interviews and skill assessments."
       ]
     }
   ]

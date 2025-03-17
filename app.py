@@ -5,7 +5,7 @@ from rapidfuzz import process
 app = Flask(__name__)
 
 # List of common words in chatbot responses
-patterns = ["Hello", "Internship", "Requirements", "Application", "Stipend", "internship_duration", "Process","interview_process", "Goodbye"]
+patterns = ["greeting", "internship_application", "internship_requirements", "internship_duration", "internship_stipend", "internship_duration", "internship_roles","internship_benefits", "internship_interview","internship_hiring_decision"]
 
 def correct_spelling(user_input):
     """Corrects spelling mistakes in user input using RapidFuzz"""

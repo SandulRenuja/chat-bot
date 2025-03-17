@@ -8,11 +8,11 @@ body {
     font-family: 'Nunito', sans-serif;
     font-weight: 400;
     font-size: 100%;
-    background: #F1F1F1;
+    background: #022457;
 }
 
 *, html {
-    --primaryGradient: linear-gradient(93.12deg, #3537d9 0.52%, #6d72dd 100%);
+    --primaryGradient: linear-gradient(93.12deg, #7173ee 0.52%, #2028b7 100%);
     --secondaryGradient: linear-gradient(268.91deg, #5079eb -2.14%, #9C1DE7 99.69%);
     --primaryBoxShadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
     --secondaryBoxShadow: 0px -10px 15px rgba(0, 0, 0, 0.1);
@@ -51,6 +51,12 @@ body {
 .chatbox__button {
     text-align: right;
 }
+
+.chatbox__button img {
+    width: 40px; /* Adjust width as needed */
+    height:40px; /* Adjust height as needed */
+}
+
 
 .send__button {
     padding: 6px;
