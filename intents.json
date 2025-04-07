@@ -51,9 +51,8 @@
         "Is the internship full-time or part-time?"
       ],
       "responses": [
-        "Our internship program lasts between 6 to 12 months.",
-        "Internship duration varies, typically from 3 to 6 months.",
-        "We offer both part-time and full-time internship opportunities."
+        "Our internship program lasts between 6 to 11 months."
+       
       ]
     },
     {
@@ -64,9 +63,8 @@
         "Will I be paid during my internship?"
       ],
       "responses": [
-        "Yes, we provide a stipend based on the role and duration.",
-        "Some internships are paid, while others offer valuable experience.",
-        "Stipend details will be discussed during the interview."
+        "Yes, we provide a stipend based on your performance."
+        
       ]
     },
     {
@@ -78,8 +76,8 @@
       ],
       "responses": [
         "We offer internships in software development, marketing, and data analysis.",
-        "Interns work on real projects and collaborate with experienced professionals.",
-        "Available roles depend on our current company needs."
+        "We offer internships in software development, marketing, and data analysis..",
+        "We offer internships in software development, marketing, and data analysis."
       ]
     },
     {
@@ -103,9 +101,8 @@
         "What should I expect in the interview?"
       ],
       "responses": [
-        "Be prepared to discuss your skills, experiences, and career goals.",
-        "Common questions include 'Tell us about yourself' and 'Why do you want this internship?'",
-        "Technical and behavioral questions may be asked based on the role."
+        "Be prepared to discuss your skills, experiences, and career goals."
+        
       ]
     },
     {
@@ -116,9 +113,9 @@
         "What is the selection process for interns?"
       ],
       "responses": [
-        "The hiring process usually takes 1-2 weeks.",
+        "The hiring process usually takes 3-4 weeks.",
         "We will notify you within a few days after the interview.",
-        "Selections are based on interviews and skill assessments."
+        "Selections are based on your cv and skill assessments."
       ]
     }
   ]
